@@ -6,7 +6,7 @@ def hello_world():
     return 'Hello World... '
   
 @app.route('/morning') 
-def hello_world(): 
+def wish_me_good_morning(): 
     return 'Good morning... '
   
 # main driver function 
