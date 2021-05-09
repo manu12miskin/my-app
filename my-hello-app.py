@@ -1,2 +1,2 @@
 print("Hello world... ")
-test_key = '-----BEGIN EC PRIVATE KEY----- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+test_url = 'service://fakeuser:None@fake.url:10000'
